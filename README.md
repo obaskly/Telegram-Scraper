@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <br>
-  <img src="https://w7.pngwing.com/pngs/431/275/png-transparent-discord-emoji-emote-twitch-internet-bot-emoji-purple-face-head.png" width="400">
+  <img src="https://w7.pngwing.com/pngs/431/275/png-transparent-discord-emoji-emote-twitch-internet-bot-emoji-purple-face-head.png" width="300">
   <br>
-  :)
+  AH-Scraper
   <br>
 </h1>
 
-<h4 align="center">AH-Scraper </h4>
+<h4 align="center">:) </h4>
 
 <p align="center">
   <a href="">
