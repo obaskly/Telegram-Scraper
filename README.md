@@ -55,7 +55,7 @@
 `pip install telethon colorama`
 
 > **Note**
-> Don't delete the `anon.session` file so that you don't have to enter the verification code every time you run the script
+> Don't delete the `anon.session` file so that you don't have to enter the verification code and your password every time you run the script
 
 > Don't use your main account (If you don't have an extra account, don't use your main account a lot because there is a risk of getting a ban)
 
