@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://w7.pngwing.com/pngs/431/275/png-transparent-discord-emoji-emote-twitch-internet-bot-emoji-purple-face-head.png" width="300">
+  <img src="sth.png" width="300">
   <br>
   AH-Scraper
   <br>
