@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
-  <img src="https://w7.pngwing.com/pngs/431/275/png-transparent-discord-emoji-emote-twitch-internet-bot-emoji-purple-face-head.png" width="200">
+  <img src="https://w7.pngwing.com/pngs/431/275/png-transparent-discord-emoji-emote-twitch-internet-bot-emoji-purple-face-head.png" width="400">
   <br>
-  MeaW
+  :)
   <br>
 </h1>
 
@@ -44,11 +44,11 @@
 
 6. Run script using the following command
 
-`python main.py -u USER_ID -o OUTPUT_FILENAME.txt`
+  `python main.py -u USER_ID -o OUTPUT_FILENAME.txt`
 
-It will ask you for a code, you will receive that code in your telegram, copy paste the code, enter your telegram password, and you are ready to use the script.
+  It will ask you for a code, you will receive that code in your telegram, copy paste the code, enter your telegram password, and you are ready to use the script.
 
-Go to a group and send the command `/scrape`, the script will get all the messages of that user and store them to a text file.
+  Go to a group and send the command `/scrape`, the script will get all the messages of that user and store them to a text file.
 
 ## Requirements
 
@@ -56,6 +56,7 @@ Go to a group and send the command `/scrape`, the script will get all the messag
 
 > **Note**
 > Don't delete the `anon.session` file so that you don't have to enter the verification code every time you run the script
+
 > Don't use your main account (If you don't have an extra account, don't use your main account a lot because there is a risk of getting a ban)
 
 ## Copyright
